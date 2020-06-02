@@ -1,1 +1,1 @@
-"# C" 
+# Celsius to Fahrenheit conversion
